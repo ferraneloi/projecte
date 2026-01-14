@@ -1,0 +1,7 @@
+* {
+    border : 1px    solid    red;
+}
+
+body > h2:nth-child(2)  {
+    color: green;
+}
